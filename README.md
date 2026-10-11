@@ -27,7 +27,7 @@ https://explorer.solana.com/tx/2SntJUS6D8BieMPjnvL7UTAioSaMUGUqQhThMqULsgEpfLefa
 ## Скриншоты
 
 Успешная транзакция:
-![Транзакция](transaction.png)
+![Транзакция](transaction.png.png)
 
 Логи выполнения Hello и Echo:
-![Логи программы](logs.png)
+![Логи программы](logs.png.png)
