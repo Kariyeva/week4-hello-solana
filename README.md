@@ -13,3 +13,21 @@
 
 Проверка: транзакция завершилась успешно. В логах отображаются
 «Hello, Solana!» и «Echo: Привет из Devnet!».
+
+## Результат в Devnet
+
+Program ID: B63wiK7R3rbhusAWBYvgm7LMGVFmqorhB6DtXZpbhzVf
+
+Программа:
+https://explorer.solana.com/address/B63wiK7R3rbhusAWBYvgm7LMGVFmqorhB6DtXZpbhzVf?cluster=devnet
+
+Транзакция вызова:
+https://explorer.solana.com/tx/2SntJUS6D8BieMPjnvL7UTAioSaMUGUqQhThMqULsgEpfLefa8Rh61F8JFP5kSHGvov6ZyCv4wkPpT81M3K5bYFq?cluster=devnet
+
+## Скриншоты
+
+Успешная транзакция:
+![Транзакция](transaction.png)
+
+Логи выполнения Hello и Echo:
+![Логи программы](logs.png)
